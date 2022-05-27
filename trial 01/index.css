@@ -1,0 +1,15 @@
+.lol03{
+    width: 200px;
+    height: 200px;
+    background-color: tomato;
+    font-size: 20px;
+    transition:width 2s, delay 1s background-color 2s;
+    transition-timing-function: ease-in-out;
+}
+    
+
+
+.lol03:hover{
+    width: 100px;
+    background-color: sandybrown;
+}
